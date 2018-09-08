@@ -1,6 +1,6 @@
 # podcast_downloader
 A simple podcast download which download podcasts from website.
 
-# Feito com: 
+# Made with
 Python 3
 Tkinter
